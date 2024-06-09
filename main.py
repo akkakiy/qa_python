@@ -3,7 +3,7 @@ class BooksCollector:
     def __init__(self):
         self.books_genre = {}
         self.favorites = []
-        self.genre = ['Драма', 'Ужасы', 'Детективы', 'Мультфильмы', 'Комедия']
+        self.genre = ['Фантастика', 'Ужасы', 'Детективы', 'Мультфильмы', 'Комедии']
         self.genre_age_rating = ['Ужасы', 'Детективы']
 
     # добавляем новую

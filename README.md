@@ -10,7 +10,6 @@
 
 ## Набор тестовых методов
 - test_add_new_book_add_three_books  -  проверка добавления книг (присутствовал изначально, как пример (структуру не менял, только названия книг))
-- test_add_new_book_genre_lack_genre  -  проверка на отсутствие жанра у новой добавленой книги
 - test_add_new_book_add_incorrect_name_book  -  проверка на добавление книг с некорректным названием 
 - test_add_new_book_add_same_name_book  -  проверка на добавление уже имеющейся книги
 - test_set_book_genre_add_genre_in_list  -  проверка на добавление книге жанра из списка 'genre' 
